@@ -1,0 +1,17 @@
+*.class~
+*.xml
+*~
+*.orig
+path.txt
+prepros.cfg
+*.mf
+# ignore csv file
+*.csv
+
+# ignore mac display settings files
+.DS_Store
+
+# ignore windows display setting files
+Thumbs.db
+build
+nbproject
