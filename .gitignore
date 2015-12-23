@@ -1,10 +1,8 @@
 *.class~
-*.xml
 *~
 *.orig
 path.txt
 prepros.cfg
-*.mf
 # ignore csv file
 *.csv
 
@@ -13,5 +11,4 @@ prepros.cfg
 
 # ignore windows display setting files
 Thumbs.db
-build
-nbproject
+
